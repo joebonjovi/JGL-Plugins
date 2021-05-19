@@ -1,1 +1,5 @@
+# JGL Technologies
+# Player Data Erase
 
+  require-offline: true
+#require a player to be offline for their data to be wiped
