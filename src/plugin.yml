@@ -1,0 +1,7 @@
+name: PlayerDataErase
+version: 1.0
+authors:
+  - Nebula
+  - JoeBonjovi
+description: Easily erase player data with a command.
+main: jgltech.pde.main
